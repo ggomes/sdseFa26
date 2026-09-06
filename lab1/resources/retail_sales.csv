@@ -1,0 +1,1001 @@
+purchase_date,store_location,product_category,price,customer_age,customer_rating
+2024-02-25,CHICAGO,Computers,$832.45,41.0,5.0
+2024-06-06,Austin,Audio,122.24,43.0,3.0
+2024-02-04,CHICAGO,Accessories,$18.23,33.0,2.0
+2024-06-09,new york,Accessories,$10.30,82.0,4.0
+2024-05-04,New York,Mobile,$518.33,56.0,1.0
+2024-06-08,CHICAGO,Audio,$101.82,39.0,4.0
+2024-05-30,Chicago,Computers,$713.30,39.0,5.0
+2024-05-16,new york,Mobile,732.23,30.0,3.0
+2024-05-18,new york,Mobile,"$1,267.97",21.0,2.0
+2024-02-12,Chicago,Accessories,$46.82,53.0,3.0
+2024-05-09,CHICAGO,Mobile,$906.74,45.0,N/A
+2024-03-26,New York,Accessories,$57.44,62.0,1.0
+2024-06-24,austin,Accessories,$23.64,38.0,3.0
+2024-02-22,new york,Mobile,$457.72,26.0,2.0
+2024-01-05,new york,Audio,$111.80,58.0,4.0
+2024-01-27,Chicago,Audio,$130.53,22.0,3.0
+2024-03-23,CHICAGO,Audio,$99.92,36.0,4.0
+2024-03-17,Chicago,Computers,951.41,28.0,5.0
+2024-01-16,Seattle,Accessories,$128.82,54.0,missing
+2024-05-11, Chicago,Audio,$75.15,49.0,missing
+2024-06-02,austin,Computers,$557.15,35.0,3.0
+2024-05-29, Austin ,Audio,$113.52,40.0,5.0
+2024-05-28,New York,Mobile,$757.86,27.0,3.0
+2024-03-16, Chicago,Audio,$142.74,52.0,4.0
+2024-05-18,Chicago,Computers,"$1,204.99",26.0,3.0
+2024-02-23,CHICAGO,Mobile,$518.25,65.0,4.0
+2024-01-03,Seattle,Computers,$969.99,61.0,4.0
+2024-05-01, Chicago,Accessories,$128.01,55.0,4.0
+2024-01-12,new york,Mobile,$662.58,18.0,5.0
+2024-02-05, Chicago,Computers,$939.44,27.0,N/A
+2024-01-15,austin,Audio,$105.33,39.0,4.0
+2024-01-27,Seattle,Computers,$685.52,29.0,2.0
+2024-04-20, Chicago,Audio,$95.52,53.0,1.0
+2024-01-23,CHICAGO,Computers,$393.70,23.0,4.0
+2024-06-14,new york,Accessories,$24.08,36.0,missing
+2024-03-21,Austin,Mobile,$234.20,18.0,missing
+2024-03-31,new york,Audio,$103.27,42.0,5.0
+2024-05-03,austin,Computers,1431.45,36.0,4.0
+2024-05-03,Seattle,Accessories,$76.64,60.0,4.0
+2024-06-24,New York,Audio,$158.25,64.0,4.0
+2024-02-19,CHICAGO,Accessories,$99.17,38.0,1.0
+2024-06-01,new york,Accessories,$24.44,22.0,missing
+2024-06-18, Austin ,Accessories,$23.52,39.0,4.0
+2024-04-02,Austin,Mobile,$465.03,18.0,5.0
+2024-06-27,austin,Accessories,$48.27,18.0,5.0
+2024-01-17,austin,Mobile,$845.05,21.0,1.0
+2024-04-18,Seattle,Audio,$129.87,54.0,4.0
+2024-02-09, Chicago,Audio,$89.27,47.0,4.0
+2024-04-23,new york,Computers,1554.19,18.0,5.0
+2024-01-11, Chicago,Accessories,$101.36,35.0,N/A
+2024-03-07, Austin ,Mobile,"$1,398.90",18.0,2.0
+2024-04-02,Austin,Mobile,$396.49,20.0,1.0
+2024-01-28,Austin,Accessories,$125.08,31.0,3.0
+2024-02-04,New York,Computers,"$1,309.67",38.0,4.0
+2024-06-01,Seattle,Computers,1157.11,18.0,1.0
+2024-06-16, Austin ,Audio,$115.36,39.0,4.0
+2024-01-21,new york,Accessories,$29.41,67.0,5.0
+2024-02-10,New York,Accessories,$31.28,18.0,4.0
+2024-05-18,Chicago,Computers,"$1,458.70",41.0,2.0
+2024-03-06,austin,Computers,"$1,119.96",29.0,3.0
+2024-05-01,austin,Accessories,$34.75,36.0,3.0
+2024-03-18,Austin,Mobile,$248.48,27.0,5.0
+2024-03-08,New York,Accessories,$16.52,32.0,2.0
+2024-01-03, Chicago,Mobile,$513.37,33.0,1.0
+2024-03-01, Austin ,Mobile,$342.47,18.0,3.0
+2024-04-13,CHICAGO,Computers,"$2,054.29",18.0,3.0
+2024-05-21,Chicago,Accessories,43.24,18.0,N/A
+2024-02-09,CHICAGO,Computers,"$1,619.73",31.0,5.0
+2024-01-29, Austin ,Computers,"$1,197.44",41.0,1.0
+2024-02-02, Austin ,Computers,"$1,284.75",18.0,missing
+2024-04-16,Chicago,Mobile,$458.89,18.0,3.0
+2024-02-27, Chicago,Audio,$85.86,41.0,2.0
+2024-01-15, Chicago,Accessories,221.85,38.0,5.0
+2024-03-13,Austin,Accessories,$30.61,999,4.0
+2024-01-04,new york,Accessories,$134.60,57.0,5.0
+2024-03-05, Chicago,Accessories,$154.56,18.0,4.0
+2024-02-13, Austin ,Computers,"$2,191.76",18.0,4.0
+2024-02-26, Austin ,Accessories,227.65,20.0,2.0
+2024-06-12,New York,Accessories,$34.67,30.0,5.0
+2024-05-18,Chicago,Computers,$969.09,18.0,3.0
+2024-02-06,austin,Audio,$116.97,37.0,4.0
+2024-05-16,Seattle,Computers,"$1,592.48",62.0,5.0
+2024-03-02,new york,Accessories,$158.70,18.0,4.0
+2024-05-12, Chicago,Accessories,$25.53,43.0,3.0
+2024-03-02,Seattle,Computers,$987.92,40.0,5.0
+2024-02-03,Chicago,Accessories,$24.21,18.0,2.0
+2024-05-18, Chicago,Computers,"$1,655.43",41.0,5.0
+2024-04-26, Chicago,Audio,115.50,43.0,4.0
+2024-03-10,austin,Computers,"$1,235.51",34.0,4.0
+2024-05-10,Chicago,Accessories,$90.88,39.0,4.0
+2024-05-30,New York,Accessories,$52.86,59.0,4.0
+2024-01-02,austin,Mobile,$398.94,47.0,1.0
+2024-02-20,austin,Mobile,$711.36,-5,4.0
+2024-05-31,Chicago,Accessories,$53.90,51.0,3.0
+2024-01-25,new york,Audio,$108.10,53.0,4.0
+2024-01-03,CHICAGO,Mobile,$717.09,33.0,5.0
+2024-05-22,new york,Audio,$124.03,51.0,3.0
+2024-05-05,new york,Computers,$919.47,18.0,3.0
+2024-03-22,austin,Computers,$685.13,42.0,4.0
+2024-02-06,new york,Mobile,$207.50,40.0,2.0
+2024-05-21,Chicago,Accessories,$9.89,23.0,missing
+2024-01-06,new york,Computers,"$1,195.82",25.0,4.0
+2024-02-08,Seattle,Audio,$90.65,46.0,4.0
+2024-06-11, Austin ,Computers,"$1,054.25",18.0,5.0
+2024-01-14,Austin,Mobile,$682.27,62.0,4.0
+2024-04-15,Seattle,Audio,$132.17,43.0,3.0
+2024-02-23,Austin,Accessories,$155.73,25.0,5.0
+2024-04-12, Austin ,Computers,"$1,513.50",34.0,3.0
+2024-03-18,Chicago,Mobile,$733.30,18.0,5.0
+2024-04-12, Austin ,Accessories,$97.45,18.0,3.0
+2024-05-02,New York,Accessories,$83.46,27.0,1.0
+2024-01-19,austin,Mobile,"$1,352.55",54.0,N/A
+2024-03-18,austin,Computers,$631.60,25.0,3.0
+2024-01-25,Chicago,Audio,$101.31,35.0,3.0
+2024-02-01,New York,Mobile,337.62,22.0,5.0
+2024-06-12, Austin ,Mobile,$361.93,32.0,2.0
+2024-03-02,New York,Accessories,$74.46,48.0,5.0
+2024-02-04,CHICAGO,Accessories,$59.13,81.0,3.0
+2024-06-14, Chicago,Audio,$104.85,35.0,missing
+2024-02-27,Seattle,Computers,"$1,394.93",18.0,2.0
+2024-04-08,austin,Audio,$106.24,40.0,missing
+2024-04-02, Chicago,Mobile,1042.58,69.0,4.0
+2024-03-27, Austin ,Audio,105.29,51.0,3.0
+2024-02-26, Chicago,Computers,"$1,348.17",20.0,5.0
+2024-02-02,CHICAGO,Computers,"$1,424.54",42.0,5.0
+2024-04-16,Seattle,Accessories,75.16,19.0,4.0
+2024-01-30,Chicago,Audio,$130.60,50.0,2.0
+2024-01-17, Chicago,Computers,"$1,201.85",25.0,4.0
+2024-03-28, Austin ,Audio,$145.18,46.0,3.0
+2024-04-20,CHICAGO,Computers,"$1,296.69",22.0,1.0
+2024-03-08, Austin ,Mobile,$347.10,20.0,5.0
+2024-06-16,austin,Accessories,$25.12,36.0,2.0
+2024-02-17,New York,Mobile,$806.56,18.0,missing
+2024-04-22,Chicago,Computers,$305.26,18.0,4.0
+2024-03-29, Chicago,Accessories,$34.96,-5,3.0
+2024-01-13, Austin ,Computers,"$1,025.44",24.0,4.0
+2024-03-23,CHICAGO,Mobile,$576.42,35.0,3.0
+2024-05-09,Chicago,Computers,1125.12,18.0,3.0
+2024-01-19, Austin ,Audio,$109.37,25.0,3.0
+2024-02-03,New York,Mobile,$306.86,26.0,3.0
+2024-02-02, Austin ,Mobile,$847.82,25.0,3.0
+2024-06-27,Chicago,Accessories,116.47,41.0,5.0
+2024-06-10,Austin,Computers,"$1,195.61",42.0,missing
+2024-04-07, Chicago,Audio,$100.49,56.0,2.0
+2024-01-13,New York,Accessories,$69.15,18.0,3.0
+2024-06-04,new york,Audio,$123.88,48.0,4.0
+2024-02-03, Chicago,Mobile,$680.55,36.0,5.0
+2024-06-25, Austin ,Accessories,$52.87,49.0,3.0
+2024-02-11,new york,Audio,$145.89,39.0,3.0
+2024-05-28,Chicago,Computers,"$1,450.30",43.0,missing
+2024-02-10,New York,Audio,$134.45,45.0,3.0
+2024-05-06,Austin,Accessories,$45.60,28.0,1.0
+2024-02-18,Chicago,Computers,"$1,114.57",36.0,2.0
+2024-04-22, Chicago,Computers,$826.53,39.0,4.0
+2024-02-18,new york,Audio,$107.92,45.0,3.0
+2024-02-24, Austin ,Audio,$84.09,54.0,1.0
+2024-06-28,New York,Audio,$95.85,29.0,4.0
+2024-05-05,CHICAGO,Mobile,$495.72,24.0,5.0
+2024-06-27,Chicago,Computers,"$1,426.14",36.0,N/A
+2024-04-27,CHICAGO,Audio,$103.16,52.0,3.0
+2024-03-29,Austin,Computers,916.21,18.0,1.0
+2024-05-02,CHICAGO,Computers,$964.16,22.0,4.0
+2024-05-09,Seattle,Computers,"$1,022.78",18.0,3.0
+2024-03-03,CHICAGO,Audio,$122.43,49.0,3.0
+2024-06-06,Chicago,Accessories,$97.65,25.0,3.0
+2024-01-05,Seattle,Computers,"$1,618.65",28.0,5.0
+2024-06-23,New York,Audio,$123.95,48.0,4.0
+2024-04-10,CHICAGO,Accessories,$116.38,29.0,4.0
+2024-01-30, Austin ,Accessories,$6.22,18.0,1.0
+2024-03-21, Austin ,Accessories,$33.66,26.0,4.0
+2024-06-21,Seattle,Computers,"$1,534.94",25.0,4.0
+2024-03-05,new york,Accessories,$73.07,18.0,3.0
+2024-04-09, Chicago,Computers,"$1,155.26",18.0,5.0
+2024-04-30,CHICAGO,Mobile,"$1,182.29",18.0,N/A
+2024-04-02,Seattle,Mobile,$509.62,70.0,3.0
+2024-05-23, Austin ,Computers,"$1,577.54",34.0,3.0
+2024-01-04,austin,Accessories,$77.65,28.0,4.0
+2024-05-19,CHICAGO,Mobile,$462.64,25.0,1.0
+2024-05-30,CHICAGO,Audio,$104.24,34.0,3.0
+2024-06-11,austin,Computers,$805.52,43.0,2.0
+2024-04-22,Chicago,Audio,$109.11,46.0,5.0
+2024-01-08,Austin,Mobile,$380.11,18.0,5.0
+2024-01-20,new york,Audio,126.48,37.0,2.0
+2024-01-24,new york,Computers,"$1,283.48",38.0,4.0
+2024-05-08,austin,Audio,$162.17,46.0,3.0
+2024-02-01,Chicago,Audio,117.91,51.0,2.0
+2024-01-23, Chicago,Audio,$93.18,35.0,3.0
+2024-01-31,Chicago,Mobile,$407.22,91.0,4.0
+2024-06-17,austin,Computers,$867.23,24.0,4.0
+2024-05-17,new york,Mobile,$777.57,18.0,5.0
+2024-02-15,Seattle,Mobile,$649.85,24.0,5.0
+2024-02-09, Chicago,Computers,"$2,100.78",43.0,1.0
+2024-06-17,austin,Mobile,$805.84,57.0,4.0
+2024-02-03,new york,Audio,$176.98,68.0,4.0
+2024-02-15,Chicago,Computers,1404.79,29.0,4.0
+2024-02-24, Chicago,Mobile,$696.43,18.0,missing
+2024-03-19,Chicago,Audio,98.14,54.0,4.0
+2024-05-13, Austin ,Mobile,$528.39,18.0,missing
+2024-01-15,new york,Accessories,$27.38,18.0,2.0
+2024-06-06,CHICAGO,Accessories,$89.38,25.0,4.0
+2024-05-05,Chicago,Audio,$152.82,44.0,2.0
+2024-01-13,new york,Audio,$113.91,45.0,1.0
+2024-04-16,Austin,Mobile,$349.86,18.0,3.0
+2024-03-19, Chicago,Mobile,$529.68,18.0,2.0
+2024-02-16,austin,Accessories,$102.29,30.0,5.0
+2024-01-06,Austin,Mobile,"$1,076.35",20.0,3.0
+2024-03-26,Seattle,Mobile,223.15,18.0,4.0
+2024-05-31,austin,Audio,$128.76,46.0,1.0
+2024-04-27,austin,Accessories,$109.72,56.0,3.0
+2024-04-29,new york,Accessories,55.61,999,1.0
+2024-01-15,Chicago,Computers,"$1,842.76",26.0,4.0
+2024-01-13,austin,Audio,$128.32,38.0,4.0
+2024-04-14,new york,Audio,$125.16,46.0,4.0
+2024-04-23, Chicago,Computers,$621.66,44.0,3.0
+2024-03-10,austin,Accessories,$66.59,53.0,4.0
+2024-06-04,Austin,Audio,$131.39,39.0,5.0
+2024-01-02,Austin,Computers,"$1,047.79",45.0,4.0
+2024-05-03,Seattle,Mobile,$681.49,18.0,3.0
+2024-06-27,Chicago,Mobile,$971.80,42.0,4.0
+2024-06-27, Chicago,Accessories,$31.56,18.0,4.0
+2024-04-10,Chicago,Computers,1422.51,43.0,5.0
+2024-01-24, Austin ,Computers,"$1,072.96",41.0,4.0
+2024-05-26,austin,Accessories,$94.59,18.0,3.0
+2024-04-06,New York,Computers,532.79,42.0,N/A
+2024-02-02,Chicago,Mobile,$221.91,18.0,4.0
+2024-06-12,CHICAGO,Mobile,$753.14,41.0,3.0
+2024-02-15,austin,Accessories,$109.08,63.0,2.0
+2024-01-01,Chicago,Accessories,$63.79,36.0,4.0
+2024-05-06, Chicago,Accessories,$25.76,18.0,2.0
+2024-01-08, Chicago,Computers,"$1,517.95",18.0,3.0
+2024-06-02, Austin ,Mobile,$435.95,18.0,5.0
+2024-02-12,Seattle,Accessories,$11.95,22.0,5.0
+2024-02-24,Seattle,Accessories,83.54,22.0,N/A
+2024-01-06,Chicago,Audio,$126.51,32.0,4.0
+2024-01-14,new york,Audio,$118.90,38.0,2.0
+2024-01-27,Chicago,Audio,$95.87,41.0,3.0
+2024-06-28,CHICAGO,Mobile,$914.74,50.0,3.0
+2024-06-17,austin,Computers,"$1,733.20",32.0,4.0
+2024-05-25,austin,Computers,"$1,606.50",19.0,N/A
+2024-05-30, Austin ,Computers,"$1,035.22",23.0,2.0
+2024-05-09, Chicago,Computers,"$1,556.77",32.0,5.0
+2024-01-31,Seattle,Audio,$101.14,54.0,2.0
+2024-04-29,Seattle,Audio,$124.69,24.0,1.0
+2024-05-09,New York,Accessories,$230.74,26.0,4.0
+2024-05-14,new york,Accessories,$15.78,32.0,N/A
+2024-05-04,new york,Accessories,$45.55,21.0,1.0
+2024-05-10,new york,Accessories,$40.23,18.0,4.0
+2024-06-28, Chicago,Mobile,$654.52,29.0,3.0
+2024-05-06,Austin,Computers,1134.27,26.0,3.0
+2024-01-16,austin,Computers,$838.87,24.0,2.0
+2024-01-31, Austin ,Computers,980.03,34.0,4.0
+2024-04-22, Chicago,Audio,$125.41,37.0,1.0
+2024-04-04, Austin ,Computers,$536.47,25.0,4.0
+2024-06-14,Seattle,Audio,111.34,50.0,5.0
+2024-04-11,austin,Mobile,$259.73,50.0,4.0
+2024-03-09,austin,Audio,$132.74,38.0,5.0
+2024-04-16, Chicago,Accessories,114.65,32.0,4.0
+2024-05-01,Seattle,Computers,"$1,718.41",22.0,3.0
+2024-02-27,austin,Computers,"$1,459.12",25.0,4.0
+2024-04-04,new york,Audio,$111.86,59.0,3.0
+2024-04-18,CHICAGO,Mobile,$433.77,52.0,3.0
+2024-02-11, Chicago,Mobile,772.45,40.0,4.0
+2024-05-24,CHICAGO,Computers,"$1,156.22",18.0,5.0
+2024-03-27,Chicago,Audio,$125.11,44.0,missing
+2024-06-19,CHICAGO,Accessories,$104.68,26.0,1.0
+2024-06-14, Chicago,Mobile,$545.47,52.0,1.0
+2024-06-04, Chicago,Audio,106.12,48.0,3.0
+2024-01-14,CHICAGO,Mobile,$561.92,18.0,2.0
+2024-04-18, Austin ,Mobile,$553.31,18.0,3.0
+2024-02-27,new york,Mobile,"$1,361.59",24.0,3.0
+2024-05-07,Seattle,Audio,$106.13,999,2.0
+2024-04-21,Seattle,Mobile,"$1,188.38",18.0,2.0
+2024-06-19,austin,Accessories,$47.55,81.0,2.0
+2024-03-18, Austin ,Computers,"$1,302.04",37.0,2.0
+2024-01-17, Austin ,Audio,107.25,27.0,3.0
+2024-05-15,Austin,Accessories,$31.34,18.0,4.0
+2024-06-16,Chicago,Computers,"$2,546.73",31.0,3.0
+2024-01-06,Chicago,Audio,$108.39,49.0,4.0
+2024-06-17,Seattle,Computers,2639.98,28.0,3.0
+2024-01-19,austin,Mobile,$472.46,18.0,3.0
+2024-01-19,Seattle,Mobile,$361.13,18.0,5.0
+2024-06-24,austin,Accessories,$31.26,39.0,5.0
+2024-02-25,Austin,Accessories,$40.11,29.0,4.0
+2024-06-23,CHICAGO,Computers,$859.57,39.0,2.0
+2024-01-10, Austin ,Audio,$141.08,51.0,3.0
+2024-01-01,New York,Mobile,$600.66,77.0,4.0
+2024-01-22, Chicago,Computers,$795.46,28.0,4.0
+2024-01-03, Austin ,Audio,$137.89,37.0,4.0
+2024-01-30,Chicago,Computers,2271.70,36.0,N/A
+2024-05-13,Chicago,Accessories,$53.90,18.0,5.0
+2024-01-26,Seattle,Computers,$977.92,29.0,5.0
+2024-06-16,CHICAGO,Mobile,$702.54,18.0,4.0
+2024-05-19,New York,Accessories,$55.30,71.0,5.0
+2024-05-27,New York,Accessories,$67.81,47.0,2.0
+2024-06-23,Austin,Audio,$137.68,36.0,3.0
+2024-06-14,CHICAGO,Audio,$143.09,43.0,4.0
+2024-04-21,austin,Mobile,$724.49,54.0,4.0
+2024-06-11,Seattle,Mobile,$741.47,44.0,1.0
+2024-05-20,Chicago,Accessories,$63.10,24.0,N/A
+2024-06-23,new york,Audio,$89.76,48.0,4.0
+2024-06-03,New York,Audio,$155.69,45.0,4.0
+2024-01-12,CHICAGO,Computers,"$1,991.36",28.0,2.0
+2024-01-11,austin,Audio,$102.30,46.0,4.0
+2024-05-12,New York,Audio,$128.56,999,1.0
+2024-04-18, Austin ,Audio,$106.85,34.0,4.0
+2024-04-03,New York,Accessories,$36.05,45.0,3.0
+2024-03-18,New York,Audio,$114.98,39.0,1.0
+2024-06-17,austin,Mobile,$806.79,18.0,4.0
+2024-03-07, Austin ,Mobile,$149.41,45.0,3.0
+2024-06-16,CHICAGO,Audio,$115.62,59.0,missing
+2024-05-03, Chicago,Accessories,$44.37,22.0,5.0
+2024-06-28,Seattle,Audio,$155.81,47.0,5.0
+2024-02-17,CHICAGO,Accessories,$140.30,18.0,3.0
+2024-01-30,Austin,Computers,"$1,219.34",29.0,N/A
+2024-06-02, Austin ,Accessories,$36.49,18.0,4.0
+2024-04-24,Chicago,Accessories,$205.62,67.0,3.0
+2024-05-23,Chicago,Audio,$120.41,31.0,5.0
+2024-04-01,Austin,Audio,$132.82,46.0,3.0
+2024-05-20,austin,Audio,$93.00,40.0,3.0
+2024-05-21,Austin,Computers,973.96,36.0,4.0
+2024-01-03,new york,Accessories,$116.92,18.0,4.0
+2024-03-18,CHICAGO,Accessories,$69.53,57.0,5.0
+2024-02-28,austin,Accessories,118.03,999,1.0
+2024-02-06,austin,Accessories,$166.28,24.0,4.0
+2024-04-21, Austin ,Accessories,83.54,26.0,3.0
+2024-01-02,austin,Computers,"$1,397.83",23.0,5.0
+2024-05-31, Chicago,Audio,$134.54,51.0,4.0
+2024-04-27,Austin,Computers,"$1,755.58",36.0,3.0
+2024-01-12,new york,Mobile,"$1,463.70",26.0,4.0
+2024-03-21,New York,Audio,$132.25,55.0,3.0
+2024-03-13,new york,Computers,"$1,863.33",28.0,missing
+2024-02-26,new york,Computers,$937.48,31.0,5.0
+2024-01-17,austin,Computers,"$2,027.41",18.0,5.0
+2024-02-22,Austin,Computers,843.63,18.0,2.0
+2024-06-25,Seattle,Audio,$101.84,43.0,missing
+2024-01-21,New York,Audio,104.72,40.0,1.0
+2024-04-01,Chicago,Mobile,$991.89,18.0,4.0
+2024-02-14,Chicago,Mobile,$693.04,18.0,4.0
+2024-05-10,Chicago,Accessories,$29.60,52.0,5.0
+2024-03-20,New York,Accessories,$72.11,39.0,5.0
+2024-05-07, Austin ,Computers,"$2,314.05",21.0,2.0
+2024-03-06,Seattle,Audio,$106.75,35.0,3.0
+2024-05-23,austin,Computers,"$1,497.05",24.0,1.0
+2024-06-17, Chicago,Accessories,$36.12,22.0,5.0
+2024-02-13,austin,Mobile,$683.48,18.0,4.0
+2024-06-15, Austin ,Audio,$126.30,38.0,4.0
+2024-05-31,Chicago,Audio,$107.92,68.0,3.0
+2024-04-17,New York,Mobile,$429.62,33.0,4.0
+2024-05-03, Austin ,Accessories,$37.08,21.0,2.0
+2024-01-08,Chicago,Audio,$106.65,47.0,5.0
+2024-06-15,New York,Accessories,$61.63,21.0,3.0
+2024-03-17,austin,Audio,$111.67,67.0,3.0
+2024-02-25, Chicago,Mobile,$492.14,83.0,5.0
+2024-02-27,Chicago,Computers,$896.01,23.0,5.0
+2024-05-31,austin,Accessories,$61.57,61.0,4.0
+2024-01-13,Seattle,Computers,"$1,095.77",38.0,N/A
+2024-06-04,Austin,Accessories,$70.27,20.0,N/A
+2024-05-28,Austin,Computers,1115.65,999,4.0
+2024-02-29,new york,Audio,$125.63,46.0,5.0
+2024-03-20,Chicago,Audio,$161.23,48.0,3.0
+2024-02-18, Austin ,Computers,$794.03,44.0,3.0
+2024-01-09,Seattle,Audio,$80.80,66.0,1.0
+2024-03-07,Seattle,Mobile,$865.88,76.0,4.0
+2024-01-03, Chicago,Audio,$144.13,40.0,4.0
+2024-03-14,Chicago,Audio,$147.19,-5,N/A
+2024-01-29,Seattle,Audio,$131.32,31.0,5.0
+2024-05-19,New York,Accessories,$163.61,19.0,5.0
+2024-04-03, Austin ,Accessories,$132.21,69.0,2.0
+2024-02-04,New York,Computers,1038.31,41.0,5.0
+2024-02-12, Austin ,Audio,$157.21,28.0,5.0
+2024-04-06,New York,Accessories,$25.50,23.0,4.0
+2024-01-19,CHICAGO,Audio,$150.83,41.0,4.0
+2024-04-06, Austin ,Computers,"$1,758.18",31.0,4.0
+2024-06-18,Austin,Mobile,618.48,18.0,4.0
+2024-06-28,New York,Audio,$140.02,54.0,4.0
+2024-05-09,New York,Mobile,$202.82,44.0,5.0
+2024-01-28, Chicago,Computers,1393.80,28.0,3.0
+2024-02-11,CHICAGO,Accessories,$54.83,29.0,4.0
+2024-02-07,Austin,Accessories,$71.04,18.0,4.0
+2024-01-15,new york,Audio,$76.04,41.0,3.0
+2024-05-24,Seattle,Mobile,$572.13,49.0,4.0
+2024-04-10, Austin ,Computers,"$1,554.01",27.0,1.0
+2024-05-07,austin,Computers,"$1,090.24",24.0,5.0
+2024-01-11,Chicago,Audio,$93.06,62.0,3.0
+2024-04-19,Chicago,Mobile,$703.13,36.0,1.0
+2024-03-04,Austin,Accessories,$151.91,44.0,5.0
+2024-06-13,Austin,Accessories,$119.03,43.0,1.0
+2024-06-08,austin,Computers,864.30,47.0,2.0
+2024-01-08,new york,Computers,772.55,26.0,1.0
+2024-03-20,Chicago,Audio,$144.61,40.0,1.0
+2024-03-05,Austin,Mobile,$963.56,18.0,4.0
+2024-04-30,CHICAGO,Mobile,$435.43,18.0,2.0
+2024-04-29, Chicago,Mobile,$942.19,63.0,3.0
+2024-01-05, Chicago,Accessories,$73.30,30.0,3.0
+2024-05-02,austin,Computers,2575.33,33.0,3.0
+2024-02-12,Chicago,Computers,$925.81,35.0,2.0
+2024-04-27,new york,Accessories,$62.08,80.0,4.0
+2024-02-27, Austin ,Audio,80.45,46.0,4.0
+2024-05-18,Austin,Accessories,$61.33,57.0,3.0
+2024-01-27,CHICAGO,Computers,"$1,070.91",31.0,4.0
+2024-03-21,austin,Accessories,$25.54,45.0,5.0
+2024-05-03,CHICAGO,Audio,$108.85,58.0,missing
+2024-05-21,New York,Audio,$105.73,48.0,2.0
+2024-02-05,austin,Computers,"$1,677.22",18.0,3.0
+2024-05-02, Austin ,Audio,$177.59,38.0,5.0
+2024-03-05,Chicago,Mobile,$774.93,70.0,2.0
+2024-05-07, Austin ,Mobile,"$1,055.76",30.0,5.0
+2024-03-19,CHICAGO,Mobile,$428.50,56.0,4.0
+2024-01-04,CHICAGO,Audio,124.66,45.0,4.0
+2024-05-04,Chicago,Computers,$643.44,28.0,N/A
+2024-01-29, Austin ,Audio,$147.16,32.0,4.0
+2024-04-22,new york,Mobile,$282.18,18.0,3.0
+2024-02-08, Chicago,Audio,$119.52,32.0,5.0
+2024-01-05, Chicago,Computers,"$1,445.76",29.0,3.0
+2024-02-01,austin,Accessories,$73.28,19.0,4.0
+2024-06-10,New York,Mobile,$717.46,18.0,5.0
+2024-04-18,CHICAGO,Audio,$182.63,-5,3.0
+2024-03-19,austin,Computers,$981.11,18.0,4.0
+2024-03-07, Chicago,Accessories,$92.23,18.0,5.0
+2024-05-10, Chicago,Audio,$112.86,53.0,1.0
+2024-03-12,austin,Computers,"$1,247.50",20.0,5.0
+2024-06-04, Chicago,Accessories,$168.35,60.0,4.0
+2024-03-14,Chicago,Accessories,72.19,35.0,1.0
+2024-06-23,Chicago,Audio,$101.21,41.0,2.0
+2024-03-13,CHICAGO,Audio,$98.67,53.0,3.0
+2024-05-28,Austin,Accessories,$82.82,50.0,5.0
+2024-03-05,new york,Mobile,$465.99,69.0,1.0
+2024-03-12,new york,Accessories,$39.37,30.0,3.0
+2024-01-17,new york,Mobile,"$1,388.08",51.0,4.0
+2024-04-11,Seattle,Mobile,$836.90,18.0,missing
+2024-04-28,new york,Audio,$142.14,27.0,5.0
+2024-02-05,Seattle,Computers,$549.29,27.0,4.0
+2024-04-13,austin,Computers,$511.81,24.0,4.0
+2024-04-07, Chicago,Mobile,$489.16,18.0,2.0
+2024-03-23,Austin,Computers,$938.73,22.0,3.0
+2024-01-23, Chicago,Computers,$951.32,24.0,2.0
+2024-02-08,New York,Audio,$120.20,44.0,5.0
+2024-06-06,new york,Mobile,"$1,100.35",42.0,5.0
+2024-05-08,New York,Computers,"$1,678.11",54.0,3.0
+2024-06-27,Seattle,Audio,141.17,48.0,3.0
+2024-05-24,CHICAGO,Mobile,$436.22,18.0,2.0
+2024-05-22,new york,Computers,$822.31,30.0,5.0
+2024-06-18,New York,Accessories,$67.98,43.0,4.0
+2024-04-13, Austin ,Computers,"$1,282.13",36.0,4.0
+2024-06-09, Austin ,Computers,$750.83,27.0,1.0
+2024-06-26,Chicago,Mobile,$302.76,38.0,5.0
+2024-04-01,New York,Accessories,72.30,-5,5.0
+2024-04-13,New York,Audio,$119.71,52.0,missing
+2024-04-10,Seattle,Accessories,$110.58,82.0,N/A
+2024-02-19, Austin ,Audio,$132.44,53.0,3.0
+2024-06-20,austin,Accessories,$41.72,50.0,2.0
+2024-06-02,Chicago,Mobile,$616.60,18.0,1.0
+2024-01-04,Austin,Accessories,$56.26,48.0,missing
+2024-02-23,New York,Mobile,$539.72,18.0,3.0
+2024-04-24,austin,Computers,$825.40,27.0,missing
+2024-01-05,CHICAGO,Mobile,$862.66,38.0,3.0
+2024-06-03,austin,Audio,$145.45,39.0,3.0
+2024-01-20,new york,Computers,"$1,745.28",29.0,missing
+2024-04-10,Seattle,Computers,"$1,522.66",31.0,5.0
+2024-05-10,CHICAGO,Accessories,$79.88,18.0,3.0
+2024-03-13,new york,Mobile,$722.65,18.0,5.0
+2024-02-03,Austin,Mobile,573.06,56.0,4.0
+2024-01-03, Austin ,Mobile,"$1,227.55",18.0,4.0
+2024-06-01, Austin ,Mobile,$631.49,18.0,3.0
+2024-06-26,Seattle,Mobile,"$1,588.27",18.0,missing
+2024-01-05,Chicago,Computers,$947.59,41.0,4.0
+2024-01-09,new york,Mobile,$697.86,19.0,4.0
+2024-02-22,new york,Audio,$108.13,39.0,2.0
+2024-05-04,New York,Computers,"$1,429.40",35.0,4.0
+2024-01-08,CHICAGO,Mobile,"$1,706.49",34.0,5.0
+2024-06-07,austin,Accessories,$33.12,28.0,3.0
+2024-04-19,austin,Accessories,$68.93,18.0,3.0
+2024-06-11,Austin,Mobile,$412.11,18.0,3.0
+2024-02-02,new york,Accessories,79.47,18.0,3.0
+2024-04-27, Chicago,Accessories,$57.94,57.0,1.0
+2024-03-11,new york,Mobile,$370.17,41.0,3.0
+2024-05-21,austin,Mobile,$313.48,18.0,1.0
+2024-04-25,Chicago,Accessories,$25.28,49.0,3.0
+2024-03-17,Seattle,Audio,$121.34,23.0,3.0
+2024-05-25,Austin,Mobile,$86.99,43.0,4.0
+2024-03-20, Austin ,Accessories,$42.45,43.0,2.0
+2024-06-03,Chicago,Accessories,$12.60,22.0,N/A
+2024-05-24,Austin,Computers,"$2,185.46",22.0,4.0
+2024-01-05,Chicago,Accessories,$85.97,18.0,4.0
+2024-02-26,Chicago,Mobile,$697.86,21.0,4.0
+2024-06-14,Seattle,Audio,$100.52,50.0,3.0
+2024-02-22,Austin,Audio,104.85,34.0,1.0
+2024-06-24,new york,Computers,$454.12,23.0,1.0
+2024-05-22, Chicago,Audio,$154.23,46.0,5.0
+2024-02-11, Austin ,Accessories,$61.79,18.0,N/A
+2024-01-10,new york,Computers,$420.58,24.0,5.0
+2024-01-26,Seattle,Mobile,$519.52,43.0,3.0
+2024-05-02,new york,Computers,"$1,820.17",20.0,4.0
+2024-03-01,CHICAGO,Mobile,$629.04,23.0,4.0
+2024-01-18,Seattle,Accessories,$235.09,28.0,missing
+2024-02-03,new york,Accessories,$70.15,33.0,5.0
+2024-05-11,Seattle,Mobile,"$1,126.20",18.0,N/A
+2024-06-07,austin,Mobile,$558.15,18.0,3.0
+2024-06-11, Chicago,Accessories,$37.77,50.0,4.0
+2024-02-14, Austin ,Accessories,$57.07,86.0,4.0
+2024-04-30,CHICAGO,Mobile,$654.40,46.0,4.0
+2024-05-28, Austin ,Accessories,$84.62,54.0,2.0
+2024-01-11,CHICAGO,Audio,$113.88,58.0,4.0
+2024-02-04,Chicago,Accessories,$114.41,44.0,1.0
+2024-01-07,CHICAGO,Audio,$100.23,39.0,2.0
+2024-03-27, Austin ,Audio,$114.08,49.0,4.0
+2024-05-14,austin,Accessories,$70.13,30.0,3.0
+2024-03-13,Seattle,Audio,$105.90,46.0,5.0
+2024-02-22,Austin,Accessories,83.42,38.0,missing
+2024-03-26, Chicago,Computers,"$1,158.75",34.0,4.0
+2024-06-22,New York,Audio,$142.70,60.0,N/A
+2024-01-13,Austin,Accessories,$41.51,18.0,4.0
+2024-02-23,Chicago,Mobile,$869.34,18.0,3.0
+2024-03-04,CHICAGO,Mobile,"$1,239.73",25.0,5.0
+2024-05-01, Austin ,Accessories,$171.55,18.0,1.0
+2024-01-15,CHICAGO,Accessories,$66.21,35.0,3.0
+2024-03-15,New York,Computers,$632.84,51.0,2.0
+2024-04-22,Austin,Audio,$127.19,63.0,4.0
+2024-06-05, Chicago,Computers,"$1,888.62",35.0,4.0
+2024-03-22,austin,Audio,$129.18,22.0,3.0
+2024-06-16,CHICAGO,Mobile,$728.12,72.0,4.0
+2024-03-01,Austin,Accessories,$92.75,31.0,5.0
+2024-04-29,Chicago,Mobile,$700.91,18.0,1.0
+2024-03-21, Chicago,Computers,"$1,026.65",32.0,3.0
+2024-01-02,new york,Computers,"$1,288.64",36.0,2.0
+2024-04-26,austin,Computers,"$1,396.06",45.0,5.0
+2024-01-14, Chicago,Computers,"$1,004.07",45.0,3.0
+2024-05-07, Chicago,Accessories,$36.94,18.0,2.0
+2024-02-21,new york,Computers,"$1,054.79",39.0,2.0
+2024-02-27,austin,Computers,"$1,692.65",47.0,3.0
+2024-06-16,Chicago,Computers,"$1,437.30",24.0,4.0
+2024-06-16,CHICAGO,Mobile,$351.85,31.0,3.0
+2024-04-02, Austin ,Computers,"$1,909.83",44.0,5.0
+2024-04-11,austin,Mobile,$429.82,20.0,5.0
+2024-02-25, Chicago,Mobile,"$1,557.10",27.0,missing
+2024-04-18,new york,Accessories,$62.71,47.0,2.0
+2024-02-28,CHICAGO,Mobile,$616.71,60.0,5.0
+2024-06-09,Austin,Computers,"$1,116.80",23.0,4.0
+2024-02-13,Chicago,Computers,"$1,007.30",19.0,missing
+2024-02-03, Chicago,Audio,$110.27,44.0,4.0
+2024-05-26, Chicago,Audio,$105.09,45.0,4.0
+2024-03-28,austin,Computers,$835.19,36.0,5.0
+2024-04-03,New York,Mobile,$844.81,18.0,4.0
+2024-04-14,Austin,Computers,$645.29,45.0,5.0
+2024-01-01,New York,Accessories,$27.28,57.0,5.0
+2024-06-17, Austin ,Mobile,"$1,018.09",53.0,1.0
+2024-02-18,Austin,Computers,"$1,515.33",30.0,3.0
+2024-06-14,CHICAGO,Accessories,$72.37,31.0,1.0
+2024-02-06,Austin,Mobile,$603.10,18.0,4.0
+2024-04-05, Austin ,Accessories,$143.00,53.0,1.0
+2024-02-07, Austin ,Audio,97.02,43.0,3.0
+2024-04-16,austin,Computers,"$1,161.81",23.0,3.0
+2024-01-30,new york,Mobile,$720.54,18.0,3.0
+2024-02-29,Seattle,Mobile,$357.34,20.0,5.0
+2024-01-14,austin,Mobile,$614.67,37.0,4.0
+2024-04-09,new york,Accessories,$56.32,33.0,4.0
+2024-02-04,austin,Mobile,$374.33,18.0,1.0
+2024-04-09,Austin,Audio,$94.15,999,3.0
+2024-05-15,Seattle,Accessories,$120.37,22.0,3.0
+2024-04-07,austin,Computers,"$1,199.80",19.0,2.0
+2024-05-23,Seattle,Computers,800.36,18.0,1.0
+2024-04-26,new york,Mobile,$769.88,24.0,1.0
+2024-05-17,Austin,Mobile,1033.49,71.0,1.0
+2024-02-04,Seattle,Mobile,$802.25,38.0,5.0
+2024-05-19,New York,Accessories,$156.57,39.0,3.0
+2024-06-16,Chicago,Accessories,$30.99,40.0,4.0
+2024-05-30,Chicago,Accessories,$77.21,60.0,5.0
+2024-01-01,austin,Accessories,$74.23,54.0,3.0
+2024-05-02,New York,Mobile,"$1,361.43",39.0,4.0
+2024-04-15, Austin ,Computers,"$1,595.00",22.0,2.0
+2024-03-10,New York,Mobile,505.50,43.0,1.0
+2024-02-27,Seattle,Audio,$136.94,52.0,3.0
+2024-04-26,Seattle,Accessories,$111.50,42.0,4.0
+2024-02-01,Seattle,Accessories,35.12,45.0,2.0
+2024-06-02,Austin,Accessories,$157.10,28.0,5.0
+2024-03-16, Austin ,Audio,$126.91,54.0,3.0
+2024-06-18,new york,Computers,592.59,26.0,5.0
+2024-01-13,CHICAGO,Mobile,$873.75,57.0,4.0
+2024-04-03,new york,Mobile,$331.94,18.0,4.0
+2024-05-09,Austin,Accessories,$112.95,18.0,3.0
+2024-01-16,new york,Accessories,39.71,85.0,4.0
+2024-05-14,Seattle,Mobile,$804.90,88.0,3.0
+2024-04-02, Austin ,Mobile,1327.87,45.0,5.0
+2024-03-24, Chicago,Audio,$119.20,42.0,3.0
+2024-01-14,CHICAGO,Mobile,"$1,007.86",18.0,2.0
+2024-05-22,Seattle,Accessories,$3.99,24.0,4.0
+2024-04-06, Austin ,Mobile,$762.68,54.0,4.0
+2024-01-07,CHICAGO,Audio,$115.31,35.0,1.0
+2024-06-26,CHICAGO,Mobile,$400.10,18.0,3.0
+2024-01-11,New York,Audio,$129.42,41.0,1.0
+2024-04-06,CHICAGO,Accessories,$37.35,55.0,4.0
+2024-05-07,Seattle,Audio,$115.86,36.0,4.0
+2024-05-15,New York,Accessories,$77.77,40.0,5.0
+2024-03-18, Chicago,Computers,"$1,637.19",30.0,3.0
+2024-02-22, Chicago,Accessories,$84.96,34.0,4.0
+2024-02-21,New York,Accessories,$96.12,50.0,4.0
+2024-05-24,Seattle,Audio,146.63,42.0,2.0
+2024-03-09, Chicago,Computers,$471.72,24.0,2.0
+2024-02-07,New York,Computers,$770.46,32.0,2.0
+2024-02-14, Austin ,Mobile,$680.24,65.0,4.0
+2024-06-25,Chicago,Audio,$114.89,43.0,2.0
+2024-02-18, Austin ,Accessories,$32.63,18.0,3.0
+2024-01-04,new york,Audio,$81.11,44.0,5.0
+2024-04-07, Chicago,Mobile,762.66,30.0,2.0
+2024-04-15,austin,Mobile,"$1,038.30",45.0,2.0
+2024-03-13, Chicago,Accessories,$21.28,18.0,4.0
+2024-05-20,New York,Mobile,$930.21,48.0,4.0
+2024-03-18,CHICAGO,Computers,"$1,439.77",18.0,4.0
+2024-04-05,CHICAGO,Audio,$116.40,46.0,5.0
+2024-02-19, Austin ,Mobile,$779.41,69.0,4.0
+2024-06-22,Austin,Accessories,$60.11,34.0,4.0
+2024-04-04,new york,Mobile,$323.50,21.0,1.0
+2024-03-22,new york,Computers,$877.12,35.0,3.0
+2024-05-05,CHICAGO,Audio,$102.00,61.0,3.0
+2024-05-14,austin,Mobile,$861.43,52.0,5.0
+2024-03-08,New York,Computers,"$1,187.19",18.0,1.0
+2024-06-17,New York,Audio,$96.60,24.0,2.0
+2024-03-04,Seattle,Audio,$118.36,48.0,4.0
+2024-06-07,austin,Computers,"$1,891.33",41.0,1.0
+2024-06-06,austin,Mobile,"$1,327.16",18.0,3.0
+2024-05-27,Seattle,Computers,"$1,223.14",53.0,4.0
+2024-04-07,new york,Mobile,$344.78,18.0,N/A
+2024-05-24,austin,Audio,111.10,45.0,missing
+2024-03-22,new york,Audio,$137.43,51.0,2.0
+2024-05-30, Austin ,Audio,$108.65,29.0,4.0
+2024-05-12, Chicago,Audio,113.39,39.0,4.0
+2024-06-10,new york,Accessories,$7.84,40.0,3.0
+2024-02-28, Chicago,Audio,$156.88,35.0,2.0
+2024-01-12, Chicago,Mobile,$390.54,25.0,4.0
+2024-03-14, Austin ,Mobile,$443.88,34.0,N/A
+2024-02-01, Chicago,Accessories,$20.76,24.0,4.0
+2024-01-19,Austin,Mobile,$237.67,49.0,2.0
+2024-06-14,New York,Accessories,$71.35,27.0,3.0
+2024-04-28, Austin ,Computers,"$1,035.52",38.0,4.0
+2024-06-14,Chicago,Accessories,$121.63,33.0,2.0
+2024-06-26, Austin ,Accessories,84.58,18.0,2.0
+2024-06-17,new york,Computers,"$1,127.18",22.0,3.0
+2024-04-12,new york,Mobile,$341.40,23.0,4.0
+2024-02-08,austin,Accessories,$26.97,29.0,5.0
+2024-05-27, Chicago,Audio,$99.98,48.0,4.0
+2024-01-12,Seattle,Mobile,$658.04,56.0,N/A
+2024-01-04, Chicago,Audio,$100.47,38.0,4.0
+2024-06-13,austin,Computers,"$2,115.04",35.0,1.0
+2024-01-05, Austin ,Mobile,"$1,090.89",28.0,2.0
+2024-06-12, Chicago,Audio,$135.63,55.0,5.0
+2024-05-15,Austin,Accessories,$7.42,54.0,3.0
+2024-05-17,New York,Computers,"$1,264.29",36.0,4.0
+2024-04-15,Chicago,Audio,$134.95,43.0,1.0
+2024-06-19, Austin ,Mobile,$910.34,44.0,5.0
+2024-03-27,new york,Computers,"$1,114.21",34.0,5.0
+2024-03-01, Chicago,Accessories,63.50,52.0,4.0
+2024-04-30,Seattle,Computers,$935.34,22.0,4.0
+2024-06-24,new york,Computers,"$1,235.61",27.0,2.0
+2024-01-18,Seattle,Audio,$138.10,58.0,3.0
+2024-01-02,CHICAGO,Audio,$109.83,49.0,3.0
+2024-03-30,new york,Mobile,$908.94,50.0,5.0
+2024-06-09,Austin,Audio,$123.07,41.0,4.0
+2024-02-29, Chicago,Audio,$121.12,46.0,3.0
+2024-02-06,New York,Audio,$115.81,58.0,3.0
+2024-05-08, Austin ,Mobile,$675.83,18.0,2.0
+2024-05-07, Chicago,Mobile,"$1,169.26",60.0,2.0
+2024-03-15,Austin,Computers,"$1,643.19",34.0,2.0
+2024-04-26,austin,Mobile,$515.81,18.0,2.0
+2024-02-23, Austin ,Audio,$117.31,38.0,2.0
+2024-01-09,Seattle,Computers,$518.67,25.0,4.0
+2024-01-15,CHICAGO,Audio,$106.31,47.0,3.0
+2024-01-24,new york,Audio,$140.28,48.0,3.0
+2024-06-22, Chicago,Audio,$93.78,54.0,5.0
+2024-06-04,Chicago,Computers,"$1,039.23",32.0,4.0
+2024-06-01,New York,Computers,"$1,289.99",31.0,5.0
+2024-06-06, Chicago,Computers,"$1,640.33",26.0,3.0
+2024-03-27,Seattle,Mobile,$506.11,25.0,4.0
+2024-03-05,austin,Computers,$850.59,24.0,3.0
+2024-03-26,Chicago,Computers,"$1,148.77",36.0,3.0
+2024-06-24,Chicago,Mobile,$658.65,18.0,5.0
+2024-06-08, Austin ,Computers,"$1,277.12",18.0,4.0
+2024-06-16,Austin,Computers,$900.38,33.0,3.0
+2024-06-04,new york,Mobile,$564.65,64.0,4.0
+2024-06-23,Chicago,Computers,$632.36,20.0,4.0
+2024-05-24,Austin,Accessories,$21.01,29.0,5.0
+2024-06-06,New York,Mobile,$802.47,18.0,4.0
+2024-05-23, Chicago,Mobile,$450.74,18.0,4.0
+2024-04-07,Seattle,Mobile,$639.05,58.0,5.0
+2024-06-08, Austin ,Mobile,$628.68,28.0,5.0
+2024-05-07,new york,Computers,$831.75,47.0,N/A
+2024-05-11,Chicago,Audio,$121.08,42.0,4.0
+2024-04-17,Seattle,Audio,$136.84,59.0,5.0
+2024-01-12, Austin ,Computers,"$1,694.76",46.0,4.0
+2024-03-17, Austin ,Computers,$820.57,19.0,2.0
+2024-05-10,New York,Audio,$82.57,34.0,3.0
+2024-02-03,Austin,Computers,"$1,775.10",-5,3.0
+2024-05-28,New York,Accessories,$56.86,29.0,4.0
+2024-06-02,austin,Mobile,"$1,098.45",18.0,5.0
+2024-03-15,new york,Audio,$96.82,36.0,2.0
+2024-04-10,new york,Audio,$130.68,40.0,5.0
+2024-05-10,austin,Accessories,$21.25,76.0,4.0
+2024-04-08,New York,Accessories,$7.29,26.0,5.0
+2024-03-10,new york,Accessories,$36.83,18.0,4.0
+2024-04-02, Chicago,Audio,$141.36,44.0,5.0
+2024-05-01,Chicago,Accessories,$47.35,56.0,4.0
+2024-03-04,new york,Mobile,$508.09,18.0,3.0
+2024-04-27,Seattle,Audio,$126.83,29.0,3.0
+2024-04-12, Austin ,Accessories,$99.09,37.0,5.0
+2024-01-21,austin,Mobile,$779.31,18.0,4.0
+2024-04-20,Seattle,Audio,$109.44,37.0,missing
+2024-04-18,Chicago,Computers,"$1,007.94",28.0,4.0
+2024-03-21,new york,Mobile,$362.31,49.0,3.0
+2024-04-30,austin,Accessories,$50.10,46.0,missing
+2024-02-14, Chicago,Audio,$105.21,21.0,2.0
+2024-01-28,CHICAGO,Accessories,31.08,44.0,4.0
+2024-05-20,Seattle,Computers,$661.99,28.0,4.0
+2024-05-10,CHICAGO,Mobile,$919.84,58.0,3.0
+2024-02-04, Austin ,Audio,$159.26,49.0,3.0
+2024-06-21,austin,Computers,$776.19,999,missing
+2024-02-24,new york,Computers,"$1,390.26",18.0,5.0
+2024-04-03,austin,Audio,$130.42,28.0,1.0
+2024-03-02,New York,Audio,$101.88,49.0,4.0
+2024-02-24,New York,Mobile,$346.07,47.0,2.0
+2024-04-03, Austin ,Accessories,$71.54,63.0,N/A
+2024-06-02,CHICAGO,Accessories,$67.59,18.0,3.0
+2024-05-03,Austin,Mobile,$737.06,18.0,4.0
+2024-05-20,New York,Audio,$136.87,46.0,5.0
+2024-06-21,Chicago,Computers,"$1,547.69",31.0,5.0
+2024-03-09,New York,Computers,$577.72,23.0,3.0
+2024-06-12,new york,Mobile,$995.86,38.0,3.0
+2024-04-25,new york,Accessories,$102.74,18.0,4.0
+2024-04-06,new york,Audio,$102.81,35.0,missing
+2024-01-31, Chicago,Computers,$799.33,20.0,5.0
+2024-05-03, Chicago,Computers,1589.59,25.0,4.0
+2024-03-03, Chicago,Computers,"$1,142.43",18.0,2.0
+2024-04-02,Seattle,Accessories,$6.11,25.0,5.0
+2024-03-14,Chicago,Audio,123.72,38.0,3.0
+2024-02-13,Seattle,Accessories,$16.87,25.0,4.0
+2024-04-16,Chicago,Mobile,$287.42,48.0,3.0
+2024-02-08,Seattle,Computers,$766.13,18.0,5.0
+2024-01-19, Chicago,Audio,$103.93,45.0,2.0
+2024-05-16, Chicago,Mobile,$830.06,21.0,5.0
+2024-04-10,CHICAGO,Accessories,$196.25,44.0,N/A
+2024-05-18,austin,Accessories,$115.41,43.0,4.0
+2024-04-10,New York,Computers,396.19,30.0,missing
+2024-04-07,Chicago,Accessories,$125.39,18.0,3.0
+2024-04-16,CHICAGO,Accessories,$79.98,999,3.0
+2024-01-23,new york,Computers,517.76,18.0,missing
+2024-05-16,Seattle,Mobile,$433.04,21.0,4.0
+2024-04-01, Austin ,Accessories,$57.31,23.0,1.0
+2024-02-16,New York,Mobile,$697.98,18.0,3.0
+2024-05-31, Chicago,Computers,"$1,101.68",999,N/A
+2024-03-28,austin,Mobile,$483.31,64.0,3.0
+2024-01-07,austin,Mobile,$377.27,36.0,3.0
+2024-05-26,new york,Mobile,$440.45,29.0,3.0
+2024-06-15, Austin ,Audio,$134.09,35.0,3.0
+2024-01-29,Seattle,Mobile,"$1,068.99",63.0,5.0
+2024-04-05,Chicago,Accessories,$56.57,25.0,1.0
+2024-06-18,New York,Mobile,$809.07,18.0,5.0
+2024-05-17,Austin,Mobile,$648.85,18.0,4.0
+2024-05-31,New York,Accessories,$111.19,18.0,5.0
+2024-04-25,Seattle,Computers,$629.97,24.0,2.0
+2024-01-23, Chicago,Audio,$118.62,45.0,4.0
+2024-01-20,CHICAGO,Mobile,$667.03,35.0,5.0
+2024-01-03,austin,Mobile,$648.94,18.0,missing
+2024-05-19,Seattle,Mobile,$711.60,46.0,4.0
+2024-06-18,Austin,Computers,"$1,255.77",24.0,5.0
+2024-03-12,Chicago,Accessories,$173.55,19.0,4.0
+2024-06-28,Austin,Mobile,$797.45,56.0,5.0
+2024-03-07,CHICAGO,Mobile,$862.36,49.0,4.0
+2024-03-27,Seattle,Mobile,$296.62,18.0,5.0
+2024-01-12,Austin,Mobile,$866.65,22.0,2.0
+2024-02-29,New York,Mobile,$778.11,43.0,4.0
+2024-05-01,CHICAGO,Accessories,$46.84,56.0,3.0
+2024-02-13, Austin ,Computers,"$2,056.17",18.0,missing
+2024-06-20,new york,Computers,"$1,300.79",39.0,4.0
+2024-01-11,austin,Audio,108.53,33.0,2.0
+2024-04-03,New York,Mobile,$355.47,37.0,5.0
+2024-02-01,Seattle,Audio,$133.47,40.0,1.0
+2024-03-24,new york,Mobile,$672.69,55.0,5.0
+2024-04-27,CHICAGO,Computers,"$1,861.09",21.0,2.0
+2024-04-22,new york,Accessories,$94.88,18.0,4.0
+2024-04-10,Chicago,Audio,$122.55,50.0,4.0
+2024-05-13, Chicago,Mobile,$604.06,18.0,4.0
+2024-03-13,Austin,Computers,1109.00,61.0,3.0
+2024-06-05,new york,Computers,"$2,425.49",39.0,4.0
+2024-03-05,new york,Audio,$117.38,46.0,2.0
+2024-02-12,Seattle,Accessories,76.81,51.0,2.0
+2024-02-28,Austin,Mobile,$649.48,18.0,4.0
+2024-04-12, Chicago,Mobile,$740.23,79.0,4.0
+2024-05-05,austin,Audio,$131.04,56.0,4.0
+2024-02-08,Austin,Audio,102.47,50.0,missing
+2024-05-08, Chicago,Accessories,$74.14,18.0,1.0
+2024-01-19,Seattle,Mobile,$214.50,38.0,2.0
+2024-05-29,CHICAGO,Accessories,$33.18,51.0,5.0
+2024-05-18,austin,Mobile,"$1,099.61",41.0,2.0
+2024-05-03, Austin ,Mobile,$519.77,38.0,3.0
+2024-04-27,New York,Computers,$939.67,28.0,5.0
+2024-01-14,austin,Mobile,$423.08,31.0,1.0
+2024-04-27, Chicago,Computers,"$1,036.87",34.0,3.0
+2024-01-06,austin,Accessories,$96.51,33.0,5.0
+2024-01-11,austin,Computers,$620.07,18.0,4.0
+2024-06-20,austin,Computers,"$1,033.10",20.0,2.0
+2024-04-03, Chicago,Audio,$132.80,53.0,3.0
+2024-05-08,New York,Audio,105.11,49.0,1.0
+2024-06-25,CHICAGO,Mobile,$331.55,32.0,3.0
+2024-01-28,CHICAGO,Audio,$137.25,50.0,4.0
+2024-01-25,Austin,Audio,153.23,23.0,4.0
+2024-03-17,CHICAGO,Audio,$103.70,82.0,2.0
+2024-01-07, Austin ,Computers,"$1,450.09",45.0,3.0
+2024-01-12,New York,Mobile,$497.14,41.0,1.0
+2024-04-09,Austin,Mobile,1430.11,18.0,2.0
+2024-05-10,Chicago,Audio,$117.17,60.0,4.0
+2024-01-29,Seattle,Accessories,$31.25,18.0,N/A
+2024-03-23,Chicago,Computers,"$1,822.83",18.0,3.0
+2024-05-25,Austin,Audio,$96.29,42.0,5.0
+2024-02-22,Austin,Accessories,$123.48,44.0,3.0
+2024-06-10,Seattle,Accessories,$124.01,18.0,5.0
+2024-03-12,CHICAGO,Audio,$94.13,51.0,1.0
+2024-06-21, Chicago,Mobile,362.29,64.0,3.0
+2024-03-09, Austin ,Accessories,$18.74,-5,missing
+2024-04-06,New York,Computers,"$1,949.69",19.0,5.0
+2024-05-15,austin,Computers,$922.14,32.0,4.0
+2024-02-04,New York,Accessories,$155.04,44.0,N/A
+2024-05-09,Austin,Audio,$156.62,51.0,3.0
+2024-03-03, Austin ,Mobile,$538.45,33.0,5.0
+2024-05-18, Austin ,Audio,$105.77,50.0,2.0
+2024-02-05, Austin ,Computers,"$1,052.31",18.0,2.0
+2024-02-07,Seattle,Mobile,$429.69,18.0,5.0
+2024-05-17,Seattle,Audio,$122.73,44.0,5.0
+2024-01-09,CHICAGO,Accessories,$33.79,40.0,4.0
+2024-05-24,Chicago,Accessories,$8.49,54.0,4.0
+2024-02-01,Seattle,Accessories,$20.89,31.0,4.0
+2024-02-08,austin,Mobile,$538.52,50.0,5.0
+2024-01-26,new york,Audio,$118.75,45.0,2.0
+2024-01-16, Chicago,Accessories,$78.83,20.0,3.0
+2024-03-22,Seattle,Mobile,$919.17,34.0,5.0
+2024-01-27, Chicago,Computers,"$1,323.12",46.0,4.0
+2024-03-26, Chicago,Computers,$631.82,38.0,3.0
+2024-02-18,Austin,Accessories,$61.39,38.0,N/A
+2024-03-06,New York,Computers,$467.24,25.0,5.0
+2024-04-29, Austin ,Computers,"$1,937.05",21.0,N/A
+2024-03-24,CHICAGO,Mobile,$746.16,18.0,5.0
+2024-04-16,Austin,Audio,$97.85,37.0,4.0
+2024-02-23,new york,Computers,"$1,042.61",18.0,1.0
+2024-03-30, Chicago,Accessories,$131.07,29.0,3.0
+2024-03-16,new york,Mobile,$485.84,51.0,4.0
+2024-02-02,new york,Mobile,$192.72,74.0,3.0
+2024-03-20,New York,Accessories,$140.03,18.0,5.0
+2024-06-12,Chicago,Accessories,$76.81,24.0,5.0
+2024-04-29,austin,Audio,$130.80,38.0,2.0
+2024-02-25, Austin ,Audio,143.14,52.0,4.0
+2024-06-18,New York,Mobile,$428.40,18.0,3.0
+2024-02-20,CHICAGO,Mobile,"$1,467.18",18.0,5.0
+2024-04-18,new york,Computers,"$1,245.60",26.0,1.0
+2024-05-06,new york,Accessories,$40.37,41.0,4.0
+2024-05-03,Chicago,Computers,"$1,317.64",39.0,4.0
+2024-05-09,Chicago,Computers,$511.90,27.0,missing
+2024-04-15, Chicago,Audio,$105.96,47.0,5.0
+2024-06-16,austin,Accessories,$39.74,45.0,3.0
+2024-06-12,New York,Audio,$108.66,34.0,4.0
+2024-04-25,Chicago,Accessories,$25.88,52.0,3.0
+2024-04-17, Chicago,Mobile,$308.14,18.0,5.0
+2024-05-01,austin,Accessories,$95.37,38.0,2.0
+2024-03-22,CHICAGO,Accessories,$18.61,18.0,5.0
+2024-01-08,Chicago,Mobile,$133.23,19.0,5.0
+2024-06-24,Austin,Accessories,$46.70,59.0,4.0
+2024-02-25,Seattle,Audio,$90.79,24.0,5.0
+2024-05-23,Chicago,Computers,$745.36,30.0,4.0
+2024-01-24,austin,Accessories,$96.84,39.0,2.0
+2024-06-13, Chicago,Audio,$115.61,48.0,3.0
+2024-03-26,New York,Audio,$124.71,57.0,1.0
+2024-05-04,new york,Computers,"$1,287.67",21.0,N/A
+2024-04-08,CHICAGO,Accessories,$136.14,43.0,5.0
+2024-01-13,new york,Mobile,$718.11,50.0,3.0
+2024-02-26,Seattle,Computers,"$1,511.23",18.0,2.0
+2024-05-16,New York,Mobile,$547.55,36.0,2.0
+2024-05-20,CHICAGO,Computers,"$1,028.93",22.0,3.0
+2024-02-23,austin,Audio,$109.51,28.0,2.0
+2024-06-28,Seattle,Audio,$112.00,35.0,5.0
+2024-01-10,Austin,Computers,$537.98,19.0,1.0
+2024-03-19,Seattle,Mobile,$491.13,18.0,4.0
+2024-01-24,CHICAGO,Audio,$169.40,54.0,missing
+2024-01-19,New York,Mobile,$869.79,78.0,3.0
+2024-01-14,New York,Computers,"$1,570.10",45.0,3.0
+2024-03-15, Chicago,Computers,1258.86,23.0,4.0
+2024-02-28, Chicago,Audio,$118.33,50.0,1.0
+2024-05-16,Seattle,Audio,$97.50,50.0,2.0
+2024-03-20,New York,Computers,$501.19,23.0,4.0
+2024-03-07,CHICAGO,Accessories,$55.32,18.0,1.0
+2024-04-29,Chicago,Mobile,$530.18,18.0,2.0
+2024-02-24,Seattle,Accessories,$79.15,25.0,3.0
+2024-01-03,CHICAGO,Computers,$763.70,32.0,4.0
+2024-01-28, Chicago,Audio,$98.51,48.0,5.0
+2024-04-30, Chicago,Mobile,$344.45,20.0,4.0
+2024-06-28,Chicago,Mobile,$484.57,34.0,1.0
+2024-06-25,New York,Computers,$956.56,49.0,4.0
+2024-05-01,new york,Computers,$621.17,18.0,3.0
+2024-02-12,New York,Audio,126.06,53.0,3.0
+2024-05-05,Austin,Audio,$108.20,41.0,3.0
+2024-01-04, Chicago,Accessories,$42.95,48.0,3.0
+2024-02-15,Chicago,Computers,"$2,397.51",24.0,4.0
+2024-01-09,New York,Audio,$125.45,48.0,3.0
+2024-03-09,austin,Computers,1417.15,35.0,N/A
+2024-06-09,Seattle,Accessories,$121.06,25.0,5.0
+2024-05-18, Chicago,Accessories,$128.36,44.0,4.0
+2024-05-23, Austin ,Audio,$81.78,52.0,1.0
+2024-06-07, Chicago,Mobile,"$1,518.47",32.0,4.0
+2024-03-31, Chicago,Accessories,$45.75,19.0,4.0
+2024-06-17,Austin,Audio,$158.84,29.0,N/A
+2024-05-19,CHICAGO,Computers,$818.41,39.0,5.0
+2024-06-15,austin,Audio,$108.38,33.0,4.0
+2024-01-27,New York,Mobile,$793.62,18.0,4.0
+2024-01-13,New York,Mobile,"$1,168.16",54.0,3.0
+2024-06-22,austin,Accessories,$45.63,41.0,N/A
+2024-03-26,Seattle,Mobile,$468.42,51.0,4.0
+2024-04-05,new york,Audio,$132.54,48.0,3.0
+2024-06-20,Chicago,Audio,$76.74,18.0,2.0
+2024-03-06, Chicago,Computers,$484.53,42.0,1.0
+2024-02-24, Austin ,Audio,$93.47,27.0,3.0
+2024-01-25,Seattle,Computers,"$1,278.38",-5,4.0
+2024-04-06,New York,Computers,$723.20,45.0,5.0
+2024-01-30,New York,Accessories,$36.49,37.0,4.0
+2024-01-23,Chicago,Audio,$147.94,36.0,3.0
+2024-02-25, Austin ,Computers,"$1,547.30",51.0,2.0
+2024-02-05,CHICAGO,Mobile,$706.43,29.0,4.0
+2024-03-10,new york,Audio,$114.53,44.0,5.0
+2024-04-10,Austin,Mobile,$810.19,48.0,5.0
+2024-03-06, Austin ,Mobile,$671.15,19.0,4.0
+2024-02-10,Seattle,Audio,$114.00,71.0,4.0
+2024-03-23,Austin,Audio,$100.99,46.0,5.0
+2024-04-21,Seattle,Mobile,$361.32,30.0,5.0
+2024-03-12,Chicago,Mobile,$931.01,66.0,5.0
+2024-01-21,New York,Computers,"$1,579.06",31.0,1.0
+2024-01-24, Chicago,Accessories,$179.39,32.0,N/A
+2024-01-02,Chicago,Audio,$134.76,37.0,missing
+2024-04-15,New York,Accessories,$93.77,34.0,5.0
+2024-02-23,CHICAGO,Mobile,$795.40,51.0,2.0
+2024-04-22,Austin,Computers,"$1,200.78",32.0,5.0
+2024-03-28, Austin ,Computers,$715.11,48.0,4.0
+2024-05-18,Austin,Mobile,$362.42,32.0,5.0
+2024-05-26,New York,Computers,"$2,483.64",30.0,2.0
+2024-06-03, Chicago,Computers,1384.32,19.0,4.0
+2024-06-09,CHICAGO,Accessories,$123.83,30.0,5.0
+2024-01-01,new york,Audio,$103.04,62.0,1.0
+2024-02-20, Austin ,Mobile,473.62,25.0,5.0
+2024-04-12,new york,Audio,$116.92,52.0,4.0
+2024-05-25,austin,Mobile,$658.97,18.0,4.0
+2024-05-21,New York,Computers,"$2,273.47",30.0,3.0
+2024-01-15,Austin,Audio,$110.67,51.0,4.0
+2024-02-12,austin,Mobile,$778.21,-5,4.0
+2024-05-10,New York,Mobile,$988.34,46.0,1.0
+2024-01-26,Austin,Accessories,$79.60,60.0,4.0
+2024-06-16,Chicago,Computers,$898.31,25.0,4.0
+2024-01-05, Chicago,Computers,"$1,050.98",51.0,4.0
+2024-03-30,Austin,Audio,$147.81,43.0,2.0
+2024-03-05, Chicago,Accessories,$66.14,41.0,5.0
+2024-04-28,CHICAGO,Mobile,764.91,74.0,4.0
+2024-05-18,CHICAGO,Accessories,$61.49,55.0,N/A
+2024-02-24,new york,Accessories,$42.54,67.0,3.0
+2024-05-08,Austin,Mobile,"$1,032.97",18.0,4.0
+2024-06-09, Austin ,Computers,$615.78,18.0,missing
+2024-06-08,Seattle,Mobile,$462.97,18.0,3.0
+2024-05-09,New York,Computers,"$1,027.23",26.0,4.0
+2024-06-10,Austin,Audio,$97.10,30.0,3.0
+2024-02-11,new york,Computers,"$1,467.81",20.0,3.0
+2024-01-14,CHICAGO,Mobile,$655.87,18.0,5.0
+2024-04-16, Austin ,Computers,$685.45,29.0,4.0
+2024-04-08,CHICAGO,Accessories,$93.93,18.0,4.0
+2024-04-22,austin,Computers,"$1,593.98",34.0,1.0
+2024-04-25,Austin,Audio,$157.33,-5,1.0
+2024-01-06,CHICAGO,Audio,121.50,39.0,4.0
+2024-05-15,Austin,Computers,$778.64,40.0,5.0
+2024-05-29, Austin ,Audio,$127.24,27.0,4.0
+2024-02-25, Chicago,Computers,"$1,311.10",30.0,2.0
+2024-05-25,New York,Mobile,852.99,51.0,5.0
+2024-01-26,new york,Computers,$667.62,35.0,4.0
+2024-05-02,Austin,Mobile,$538.20,53.0,3.0
+2024-03-22,CHICAGO,Accessories,93.72,18.0,4.0
+2024-03-12,Austin,Audio,$119.16,38.0,5.0
+2024-04-02, Chicago,Computers,$975.70,31.0,3.0
+2024-02-15,new york,Mobile,770.96,30.0,2.0
+2024-04-20,austin,Mobile,$930.58,18.0,3.0
+2024-02-03,Chicago,Audio,$148.22,62.0,N/A
+2024-05-01, Austin ,Accessories,$23.27,73.0,4.0
+2024-02-27,austin,Accessories,$101.99,33.0,5.0
+2024-02-19,new york,Audio,$120.75,52.0,3.0
+2024-05-17, Austin ,Accessories,$50.28,18.0,4.0
+2024-01-24,New York,Accessories,$14.62,26.0,4.0
+2024-03-09,CHICAGO,Accessories,$46.12,66.0,5.0
+2024-03-17,CHICAGO,Computers,$916.00,51.0,5.0
+2024-04-27,new york,Accessories,$79.16,18.0,3.0
+2024-02-23,New York,Accessories,$200.83,26.0,5.0
+2024-04-07,new york,Computers,"$1,288.51",27.0,3.0
+2024-01-07,CHICAGO,Accessories,97.95,20.0,4.0
+2024-03-06,Chicago,Mobile,$538.08,65.0,2.0
+2024-02-21, Chicago,Accessories,$108.80,37.0,4.0
+2024-05-08,Seattle,Accessories,$92.33,65.0,4.0
+2024-04-01,Austin,Accessories,$84.17,43.0,4.0
+2024-05-24,New York,Audio,$117.19,41.0,4.0
+2024-06-09,CHICAGO,Computers,$630.71,32.0,1.0
+2024-01-02,Austin,Mobile,"$1,525.85",37.0,3.0
+2024-05-22,austin,Computers,"$1,192.46",36.0,missing
+2024-03-11,Seattle,Accessories,$98.47,18.0,4.0
+2024-04-25,austin,Computers,"$1,599.87",32.0,1.0
